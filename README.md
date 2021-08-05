@@ -1,3 +1,9 @@
+
+APP DE RECEITAS
+Projeto da Trybe desenvolvido em Grupo pelos integrantes Ivanildo Cândido , Edson Araújo e Mateus Coury Ribeiro com React , Bootstrap,RTL e outros com o intuito de fazer um aplicativo de buscas de receitas de comida e bebidas.
+
+
+
 ### Termos de uso
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
