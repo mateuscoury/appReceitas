@@ -4,6 +4,6 @@ Projeto da Trybe desenvolvido em Grupo pelos integrantes Ivanildo Cândido , Eds
 
 ## COMO USAR
 
-git clone no repositorio do projeto//
-npm install//
-npm start//
+git clone no repositorio do projeto <br/>
+npm install <br/>
+npm start
